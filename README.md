@@ -1,16 +1,19 @@
-# costillas_midterm
+# Expense Tracker Application
 
-A new Flutter project.
+A modern expense tracking application built with Flutter for efficient expense management.
+
+## Features
+- Track expenses and income with detailed information
+- Manage balance and transactions
+- View statistics with pie charts
+- Filter transactions by category and date
+- Add custom categories
+- Modern and intuitive UI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+cd expense_tracker
 
-A few resources to get you started if this is your first Flutter project:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter run 
